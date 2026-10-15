@@ -1,0 +1,13 @@
+{
+  "name": "dashio22-skills",
+  "owner": {
+    "name": "dashio22"
+  },
+  "plugins": [
+    {
+      "name": "weekend-trips",
+      "source": "./",
+      "description": "Picks 3-5 nature hikes in Israel for the coming Saturday and builds a Hebrew trail-guide page."
+    }
+  ]
+}
