@@ -1,0 +1,8 @@
+{
+  "name": "weekend-trips",
+  "description": "Picks 3-5 nature hikes in Israel for the coming Saturday, checks each is open and fits the season, and builds a Hebrew trail-guide page.",
+  "version": "1.0.0",
+  "author": {
+    "name": "dashio22"
+  }
+}
